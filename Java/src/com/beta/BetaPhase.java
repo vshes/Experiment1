@@ -7,4 +7,7 @@ public class BetaPhase {
     public  void betaphase(){
         System.out.println("Beta Phase started !");
     }
+    public void betaPhaseTwo(){
+        System.out.println("New Phase Added !");
+    }
 }
