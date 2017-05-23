@@ -6,5 +6,6 @@ package com.phase2;
 public class PhaseTwo {
     public  void newMethod(){
         System.out.println("new Method for Phase 2 Added!");
+        System.out.println("Added by master !");
     }
 }
